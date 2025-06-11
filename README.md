@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on HTML, CSS, JavaScript, Python, Java, SQL.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, SQl.
+- 👯 I’m looking to collaborate on JavaScript
+- 🤔 I’m looking for help with Java, JavaScript
+- 💬 Ask me about SQL and Python
+- 📫 How to reach me: Whatsapp or Instagram
+- 😄 Pronouns: Dazzle
+- ⚡ Fun fact: I Like Make Everyone Happy
 <!--
 **RonyRisvaldoLumbanBatu/RonyRisvaldoLumbanBatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
