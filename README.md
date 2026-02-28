@@ -27,9 +27,9 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 ### 📊 GitHub Stats
 *(Otomatis ter-update sesuai aktivitasku di GitHub)*
 
-![Rony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonyRisvaldoLumbanBatu&show_icons=true&theme=tokyonight&hide_border=true)
+![Rony's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=RonyRisvaldoLumbanBatu&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonyRisvaldoLumbanBatu&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=RonyRisvaldoLumbanBatu&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 📫 Let's Connect!
 Mau kolaborasi proyek, bahas teknologi baru, atau sekadar *say hi*? *Hit me up!*
