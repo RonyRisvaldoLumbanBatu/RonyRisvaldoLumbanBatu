@@ -30,7 +30,6 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 </div>
 
 ### 🎒 [ INVENTORY: TECH ARSENAL ]
-*(Klik pada icon item untuk melihat manual/website resminya)*
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML"></a>
@@ -54,7 +53,6 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 <br>
 
 ### 💾 [ SAVE GAME: VISITOR STATS ]
-*(Total player yang udah mampir ke profil ini)*
 
 <img src="https://komarev.com/ghpvc/?username=RonyRisvaldoLumbanBatu&label=PROFILE%20VIEWS&color=39FF14&style=flat-square" alt="Visitor Count" />
 
@@ -62,12 +60,12 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 Mau kolaborasi proyek, bahas teknologi baru, atau sekadar *say hi*? *Hit me up!*
 
 <div align="left">
-  <a href="https://instagram.com/username_ig_kamu">
+  <a href="https://instagram.com/ronyrisvaldo">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:email_kamu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://wa.me/6283830325072">
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp">
+</a>
 </div>
 
 <br>
