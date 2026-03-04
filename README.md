@@ -82,8 +82,9 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 
 <div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img src="https://github-readme-stats.vercel.app/api?username=RonyRisvaldoLumbanBatu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="GitHub Stats" />
   </a>
+  <br><br>
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyRisvaldoLumbanBatu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
