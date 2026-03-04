@@ -92,9 +92,20 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 
 <br>
 
-### 💾 [ SAVE GAME: VISITOR STATS ]
+### 💾 [ SAVE GAME: STATS & PROGRESS ]
 
-<img src="https://komarev.com/ghpvc/?username=RonyRisvaldoLumbanBatu&label=PROFILE%20VIEWS&color=39FF14&style=flat-square" alt="Visitor Count" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RonyRisvaldoLumbanBatu&label=PROFILE%20VIEWS&color=39FF14&style=flat-square" alt="Visitor Count" />
+  <br><br>
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonyRisvaldoLumbanBatu&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  </a>
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="Stats" />
+  </a>
+</div>
+
+<br>
 
 ### 📫 [ CO-OP MODE: LET'S CONNECT! ]
 Mau kolaborasi proyek, bahas teknologi baru, atau sekadar *say hi*? *Hit me up!*
