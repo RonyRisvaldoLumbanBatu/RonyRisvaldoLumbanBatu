@@ -39,34 +39,33 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 
 ### 👑 [ BOSS PROJECTS: PINNED QUESTS ]
 
-<div align="center">
-  <a href="https://github.com/RonyRisvaldoLumbanBatu/it-helpdesk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonyRisvaldoLumbanBatu&repo=it-helpdesk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14" alt="it-helpdesk" />
-  </a>
-  <a href="https://github.com/RonyRisvaldoLumbanBatu/CBT-Rony">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonyRisvaldoLumbanBatu&repo=CBT-Rony&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14" alt="CBT-Rony" />
-  </a>
-</div>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h4>🎫 IT Helpdesk</h4>
+      <h4>🎫 <a href="https://github.com/RonyRisvaldoLumbanBatu/it-helpdesk">IT Helpdesk</a></h4>
       <p><i>Sistem ticketing IT Support berbasis PHP dengan UI modern, chat tiket realtime, Docker-ready, dan fitur keamanan lengkap.</i></p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       </p>
+      <a href="https://github.com/RonyRisvaldoLumbanBatu/it-helpdesk">
+        <img src="https://img.shields.io/badge/-VIEW%20REPO-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View it-helpdesk" />
+      </a>
     </td>
     <td align="center" width="50%">
-      <h4>📝 CBT-Rony</h4>
+      <h4>📝 <a href="https://github.com/RonyRisvaldoLumbanBatu/CBT-Rony">CBT-Rony</a></h4>
       <p><i>Aplikasi Computer-Based Test berbasis Laravel/Blade untuk simulasi ujian online yang ringan dan rapi.</i></p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blade-F7DF1E?style=flat-square&logo=laravel&logoColor=black" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
+      <a href="https://github.com/RonyRisvaldoLumbanBatu/CBT-Rony">
+        <img src="https://img.shields.io/badge/-VIEW%20REPO-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View CBT-Rony" />
+      </a>
     </td>
   </tr>
 </table>
