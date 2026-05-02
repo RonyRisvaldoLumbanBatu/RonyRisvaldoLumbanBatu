@@ -15,6 +15,14 @@
   <img src="https://i.pinimg.com/originals/11/4a/0b/114a0b2d354eab8ea1ecceb0d11f6c44.gif" width="400px" alt="Pacman Pixel Line">
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RonyRisvaldoLumbanBatu&label=PROFILE%20VIEWS&color=39FF14&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/RonyRisvaldoLumbanBatu?label=FOLLOWERS&style=flat-square&color=39FF14&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/RonyRisvaldoLumbanBatu?label=STARS&style=flat-square&color=39FF14&labelColor=000000" alt="Stars" />
+</div>
+
+<br>
+
 ### 🕹️ [ LEVEL 1: CHARACTER STATS ]
 Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan infrastruktur IT. Kalau nggak lagi ngoding aplikasi web (seperti sistem IT Helpdesk atau *Computer-Based Test*), kemungkinan saya lagi ngoprek server Linux, *self-hosting*, atau *setting up* jaringan. 
 
@@ -24,6 +32,44 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 - 🎧 **Equipped Gear:** Moondrop Chu II IEM, dengerin *playlist* Pop/Jazz (Sheila on 7, RAN, Diskoria).
 - 🧱 **Mini-Games:** *Self-hosting* server Minecraft atau bereksperimen *game dev* di Roblox Studio.
 - 😄 **Pronouns:** Dazzle.
+
+<div align="center">
+  <b>👾 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 👾</b>
+</div>
+
+### 👑 [ BOSS PROJECTS: PINNED QUESTS ]
+
+<div align="center">
+  <a href="https://github.com/RonyRisvaldoLumbanBatu/it-helpdesk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonyRisvaldoLumbanBatu&repo=it-helpdesk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14" alt="it-helpdesk" />
+  </a>
+  <a href="https://github.com/RonyRisvaldoLumbanBatu/CBT-Rony">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonyRisvaldoLumbanBatu&repo=CBT-Rony&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14" alt="CBT-Rony" />
+  </a>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎫 IT Helpdesk</h4>
+      <p><i>Sistem ticketing IT Support berbasis PHP dengan UI modern, chat tiket realtime, Docker-ready, dan fitur keamanan lengkap.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h4>📝 CBT-Rony</h4>
+      <p><i>Aplikasi Computer-Based Test berbasis Laravel/Blade untuk simulasi ujian online yang ringan dan rapi.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-F7DF1E?style=flat-square&logo=laravel&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <b>👾 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 👾</b>
@@ -78,25 +124,62 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 
 <br>
 
+<div align="center">
+  <b>👾 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 👾</b>
+</div>
+
 ### 📊 [ GAME STATS ]
 
 <div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="GitHub Stats" />
   </a>
-  <br><br>
+</div>
+
+<div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyRisvaldoLumbanBatu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonyRisvaldoLumbanBatu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyRisvaldoLumbanBatu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyRisvaldoLumbanBatu&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
-### 💾 [ SAVE GAME: STATS & PROGRESS ]
+### 🏆 [ ACHIEVEMENT UNLOCKED: TROPHY ROOM ]
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RonyRisvaldoLumbanBatu&label=PROFILE%20VIEWS&color=39FF14&style=flat-square" alt="Visitor Count" />
-  <br><br>
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img src="https://github-profile-trophy.vercel.app/?username=RonyRisvaldoLumbanBatu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+  </a>
+</div>
+
+<br>
+
+### 🐍 [ BONUS STAGE: CONTRIBUTION SNAKE ]
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RonyRisvaldoLumbanBatu/RonyRisvaldoLumbanBatu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+### 💾 [ SAVE GAME: ACTIVITY LOG ]
+
+<div align="center">
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonyRisvaldoLumbanBatu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true" alt="Activity Graph" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonyRisvaldoLumbanBatu&theme=tokyonight&utcOffset=7" alt="Productive Time" />
   </a>
@@ -115,8 +198,11 @@ Mau kolaborasi proyek, bahas teknologi baru, atau sekadar *say hi*? *Hit me up!*
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://wa.me/6283830325072">
-  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp">
-</a>
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://github.com/RonyRisvaldoLumbanBatu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 <br>
@@ -125,4 +211,6 @@ Mau kolaborasi proyek, bahas teknologi baru, atau sekadar *say hi*? *Hit me up!*
   <img src="https://i.pinimg.com/originals/8a/cc/b5/8accb5ed7f9753e8fbffc65aa90e0b3c.gif" width="100px" alt="Pixel Mario/Retro Character">
   <br>
   <i>✨ "I like making everyone happy!" ✨</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=80&section=footer&text=GAME%20OVER%20%7C%20PRESS%20START%20TO%20PLAY%20AGAIN&fontColor=000000&fontSize=14&fontAlignY=70" alt="footer" />
 </div>
