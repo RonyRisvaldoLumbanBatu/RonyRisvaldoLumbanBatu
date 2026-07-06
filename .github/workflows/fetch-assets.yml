@@ -2,6 +2,9 @@ name: Fetch README assets
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - claude/readme-cleanup-updates-nle12q
 
 permissions:
   contents: write
@@ -32,5 +35,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets
-          git commit -m "chore: add README GIF assets (self-hosted copies of Pinterest GIFs)"
-          git push
+          if git diff --cached --quiet; then
+            echo "Assets already up to date, nothing to commit."
+          else
+            git commit -m "chore: add README GIF assets (self-hosted copies of Pinterest GIFs)"
+            git push
+          fi
