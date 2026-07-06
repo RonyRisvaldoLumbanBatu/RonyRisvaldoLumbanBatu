@@ -1,0 +1,36 @@
+name: Fetch README assets
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download GIF assets
+        run: |
+          mkdir -p assets
+          curl -fsSL --retry 3 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36" \
+            -o assets/retro-banner.gif "https://i.pinimg.com/originals/6e/3c/cf/6e3ccf016cd0f0eb897a22eb6134a413.gif"
+          curl -fsSL --retry 3 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36" \
+            -o assets/pacman-divider.gif "https://i.pinimg.com/originals/11/4a/0b/114a0b2d354eab8ea1ecceb0d11f6c44.gif"
+          curl -fsSL --retry 3 -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36" \
+            -o assets/pixel-character.gif "https://i.pinimg.com/originals/8a/cc/b5/8accb5ed7f9753e8fbffc65aa90e0b3c.gif"
+          file assets/*.gif
+          for f in assets/*.gif; do
+            file "$f" | grep -q "GIF image data" || { echo "$f is not a GIF"; exit 1; }
+          done
+
+      - name: Commit assets to branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: add README GIF assets (self-hosted copies of Pinterest GIFs)"
+          git push
