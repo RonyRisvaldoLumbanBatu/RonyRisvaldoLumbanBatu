@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+START...;PLAYER+1:+RONY+READY...;CLASS:+WEB+DEVELOPER...;SKILL:+SERVER+OPREKER..." alt="Typing Retro SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INSERT+COIN+TO+START...;PLAYER+1:+RONY+READY...;CLASS:+FULLSTACK+%26+MOBILE+DEV...;SKILL:+SERVER+OPREKER..." alt="Typing Retro SVG" />
   </a>
 </div>
 
@@ -24,9 +24,9 @@
 <br>
 
 ### 🕹️ [ LEVEL 1: CHARACTER STATS ]
-Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan infrastruktur IT. Kalau nggak lagi ngoding aplikasi web (seperti sistem IT Helpdesk atau *Computer-Based Test*), kemungkinan saya lagi ngoprek server Linux, *self-hosting*, atau *setting up* jaringan. 
+Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan infrastruktur IT. Mulai dari aplikasi web (IT Helpdesk, *Computer-Based Test*), aplikasi mobile (kasir Android & Flutter), sampai ngoprek server Linux, *self-hosting*, dan *setting up* jaringan.
 
-- ⚔️ **Current Quests:** Membangun Fullstack Web Development & Setup IT Infrastructures.
+- ⚔️ **Current Quests:** Fullstack Web Development, Mobile App Development (Android & Flutter), dan Setup IT Infrastructures.
 - 📜 **Lore / Research:** Sedang menyusun riset "Komparatif Kinerja Self-Hosted Minecraft Server Berbasis VirtualBox vs Cloud Hosting".
 - 🛡️ **Base Camp:** Ubuntu, Debian, dan konfigurasi *networking*.
 - 🎧 **Equipped Gear:** Moondrop Chu II IEM, dengerin *playlist* Pop/Jazz (Sheila on 7, RAN, Diskoria).
@@ -55,6 +55,21 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
       </a>
     </td>
     <td align="center" width="50%">
+      <h4>☕ <a href="https://github.com/RonyRisvaldoLumbanBatu/tamzha-kopi-kasir">Tamzha Kopi Kasir</a></h4>
+      <p><i>Aplikasi kasir (POS) Android offline-first untuk Tamzha Kopi — dibangun dengan Java, Room Database, dan arsitektur MVVM.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-6DB33F?style=flat-square" />
+      </p>
+      <a href="https://github.com/RonyRisvaldoLumbanBatu/tamzha-kopi-kasir">
+        <img src="https://img.shields.io/badge/-VIEW%20REPO-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View tamzha-kopi-kasir" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h4>📝 <a href="https://github.com/RonyRisvaldoLumbanBatu/CBT-Rony">CBT-Rony</a></h4>
       <p><i>Aplikasi Computer-Based Test berbasis Laravel/Blade untuk simulasi ujian online yang ringan dan rapi.</i></p>
       <p>
@@ -67,8 +82,27 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
         <img src="https://img.shields.io/badge/-VIEW%20REPO-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View CBT-Rony" />
       </a>
     </td>
+    <td align="center" width="50%">
+      <h4>💳 <a href="https://github.com/RonyRisvaldoLumbanBatu/BhinnekaPay">BhinnekaPay</a></h4>
+      <p><i>Aplikasi mobile berbasis Flutter/Dart — eksperimen membangun aplikasi pembayaran lintas platform.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+      <a href="https://github.com/RonyRisvaldoLumbanBatu/BhinnekaPay">
+        <img src="https://img.shields.io/badge/-VIEW%20REPO-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View BhinnekaPay" />
+      </a>
+    </td>
   </tr>
 </table>
+
+#### 🗺️ [ SIDE QUESTS ]
+
+- 🤖 **[bot-wa-rony](https://github.com/RonyRisvaldoLumbanBatu/bot-wa-rony)** — Bot WhatsApp berbasis JavaScript/Node.js.
+- 🎪 **[IF-A-SR-EXPO](https://github.com/RonyRisvaldoLumbanBatu/IF-A-SR-EXPO)** — Website expo kelas, live di [if-a-sr-expo.vercel.app](https://if-a-sr-expo.vercel.app).
+- ⚙️ **[SAPL](https://github.com/RonyRisvaldoLumbanBatu/SAPL)** — Proyek aplikasi berbasis JavaScript.
+- 🌐 **[ronyrisvaldolumbanbatu.github.io](https://github.com/RonyRisvaldoLumbanBatu/ronyrisvaldolumbanbatu.github.io)** — Personal website di GitHub Pages.
 
 <div align="center">
   <b>👾 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ 👾</b>
@@ -96,10 +130,17 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
   <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+</div>
+
+#### 📱 Mobile Development
+<div align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
 </div>
 
 #### 🗄️ Database & Tools
@@ -115,6 +156,7 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 #### ☁️ Cloud & Production Apps
 <div align="left">
   <a href="https://www.digitalocean.com" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /></a>
+  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
   <a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" /></a>
   <a href="https://azure.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
   <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /></a>
@@ -146,7 +188,7 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 
 <div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyRisvaldoLumbanBatu&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=RonyRisvaldoLumbanBatu&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -181,9 +223,6 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 <div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonyRisvaldoLumbanBatu&theme=tokyonight&utcOffset=7" alt="Productive Time" />
-  </a>
-  <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="Stats" />
   </a>
 </div>
 
