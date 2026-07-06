@@ -179,26 +179,16 @@ Saya seorang mahasiswa dan *developer* yang suka bereksperimen dengan kode dan i
 
 <div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonyRisvaldoLumbanBatu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyRisvaldoLumbanBatu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&langs_count=8" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="GitHub Stats" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img src="https://streak-stats.demolab.com/?user=RonyRisvaldoLumbanBatu&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="Top Languages by Repo" />
   </a>
-</div>
-
-<br>
-
-### 🏆 [ ACHIEVEMENT UNLOCKED: TROPHY ROOM ]
-
-<div align="center">
   <a href="https://github.com/RonyRisvaldoLumbanBatu">
-    <img src="https://github-profile-trophy.vercel.app/?username=RonyRisvaldoLumbanBatu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonyRisvaldoLumbanBatu&theme=tokyonight" alt="Top Languages by Commit" />
   </a>
 </div>
 
