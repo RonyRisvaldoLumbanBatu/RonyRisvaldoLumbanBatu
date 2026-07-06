@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6e/3c/cf/6e3ccf016cd0f0eb897a22eb6134a413.gif" width="100%" alt="Pixel Retro Banner">
+  <img src="https://raw.githubusercontent.com/RonyRisvaldoLumbanBatu/RonyRisvaldoLumbanBatu/main/assets/retro-banner.gif" width="100%" alt="Pixel Retro Banner">
 </div>
 
 <br>
@@ -12,7 +12,7 @@
 
 <div align="center">
   <p><i>👾 Exploring the web, configuring servers, and building things from scratch. 👾</i></p>
-  <img src="https://i.pinimg.com/originals/11/4a/0b/114a0b2d354eab8ea1ecceb0d11f6c44.gif" width="400px" alt="Pacman Pixel Line">
+  <img src="https://raw.githubusercontent.com/RonyRisvaldoLumbanBatu/RonyRisvaldoLumbanBatu/main/assets/pacman-divider.gif" width="400px" alt="Pacman Pixel Line">
 </div>
 
 <div align="center">
@@ -236,7 +236,7 @@ Mau kolaborasi proyek, bahas teknologi baru, atau sekadar *say hi*? *Hit me up!*
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8a/cc/b5/8accb5ed7f9753e8fbffc65aa90e0b3c.gif" width="100px" alt="Pixel Mario/Retro Character">
+  <img src="https://raw.githubusercontent.com/RonyRisvaldoLumbanBatu/RonyRisvaldoLumbanBatu/main/assets/pixel-character.gif" width="100px" alt="Pixel Mario/Retro Character">
   <br>
   <i>✨ "I like making everyone happy!" ✨</i>
   <br><br>
